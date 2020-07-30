@@ -4,6 +4,12 @@
 I use this super basic script to perform equally basic periodic backups of a
 hard drive.
 
+# Dependencies
+
+* Python 3
+
+* rsync
+
 # Installation
 
 Choose a location to place `backup.py`. For example, I cloned this repo
